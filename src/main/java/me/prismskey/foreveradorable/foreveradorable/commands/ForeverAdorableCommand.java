@@ -28,7 +28,7 @@ public class ForeverAdorableCommand extends BukkitCommand {
 			sender.sendMessage(ChatColor.translateAlternateColorCodes('&', "&7Usage: &6/fa help"));
 		} else if(args[0].equalsIgnoreCase("help")){
 			sender.sendMessage(ForeverAdorable.MESSAGE_PREFIX + ChatColor.YELLOW + "Help:");
-			sender.sendMessage(ChatColor.YELLOW + "To force a mob to stop aging as a baby simply use a name tag on it with the word baby somewhere in the name.");
+			sender.sendMessage(ChatColor.YELLOW + "To force a mob to stop aging as a baby simply use a name tag on it with any name.");
 		} else {
 			sender.sendMessage(ForeverAdorable.MESSAGE_PREFIX + ChatColor.translateAlternateColorCodes('&',   "&7Usage: &6/fa help"));
 			return false;
