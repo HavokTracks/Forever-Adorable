@@ -5,7 +5,7 @@ A Spigot plugin that allows players to force animal mobs to remain in their infa
 Like most other Spigot plugins, simply drop the jar file into your server's plugin folder and restart your server.
 
 # Use
-Nametag a baby any name to keep them tiny
+Nametag a baby any name to keep them tiny.
 Use nametag with the name "growup" to make them adult again
 
 # Commands
